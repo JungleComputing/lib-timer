@@ -1,0 +1,14 @@
+#+title: lib-timer
+
+* Introduction
+
+Lib-timer is a simple library to time the execution of a part of the
+program.
+
+* Building the library
+
+#+begin_src sh
+git clone https://github.com/JungleComputing/lib-timer.git
+cd lib-timer/src
+make
+#+end_src
